@@ -1,0 +1,1 @@
+- [Azure Event Hubs documentation](https://learn.microsoft.com/en-us/azure/event-hubs/)

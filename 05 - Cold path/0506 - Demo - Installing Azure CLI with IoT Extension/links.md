@@ -1,0 +1,2 @@
+- [Install Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
+- [Azure IoT CLI Extension](https://github.com/Azure/azure-iot-cli-extension)

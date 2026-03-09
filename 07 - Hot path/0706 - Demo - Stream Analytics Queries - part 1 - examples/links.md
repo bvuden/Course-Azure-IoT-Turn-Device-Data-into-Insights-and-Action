@@ -1,0 +1,1 @@
+- [Azure Stream Analytics & Eventstream Query Language Reference](https://learn.microsoft.com/en-us/stream-analytics-query/stream-analytics-query-language-reference)

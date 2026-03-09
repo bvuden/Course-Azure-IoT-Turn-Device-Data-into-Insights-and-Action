@@ -1,0 +1,1 @@
+- [Kusto Query Language](https://learn.microsoft.com/en-us/kusto/query/?view=azure-data-explorer)
